@@ -1,5 +1,5 @@
 # json-data-server
-Server json-data for applications. Make https://niravkpatel28.github.io/json-server/ url for fetching data. 
+Server json-data for applications. Make https://niravkpatel28.github.io/json-server-data/ url for fetching data. 
 This repository will serve json data. 
 To fetch data from a particular folder use the following example 
 https://niravkpatel28.github.io/json-data-server/<folder-name>/<file-name.json>
