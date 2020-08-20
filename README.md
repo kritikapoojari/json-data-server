@@ -1,5 +1,3 @@
-
-
 ![Nirav Patel](https://cdn.fs.teachablecdn.com/mCT5A6Z1ReeavARaYGRD)
 ##
 # GitHub Based JSON data server 
