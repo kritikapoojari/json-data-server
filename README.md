@@ -7,6 +7,7 @@ Use json data files for mimicking a backend server. This data can be served to a
 Each json file in the repository is an end point. The relative path of the json file acts like an end point for an api call. The base url for api calls is 
 
     https://niravkpatel28.github.io/json-data-server/
+    
 To fetch data simply append the base url with the relative path of json file. Example to fetch blogs end point is 
 
     /blogs/blogs.json
