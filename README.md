@@ -30,4 +30,4 @@ This repository is a simple tool for anyone who wants to test out a front end fe
 The basic limitation of this repository is that it is serving static data. It cannot be used to serve api calls with route parameters or query parameters. The end user will simply receive entire json data which has to be parsed and used for application UI. 
 For having a backend server that is based on json server which supports query parameter and router parameters use the node package [json-server](https://www.npmjs.com/package/json-server).
 
-***Use the [link](https://github.com/niravkpatel28/heroku-json-data-server) for an api backend server that supports router parameters and query based filtering.***
+***Use the [link](https://github.com/niravkpatel28/heroku-json-data-server) for an api backend server that supports route parameters and query based filtering.***
