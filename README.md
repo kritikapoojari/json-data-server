@@ -1,5 +1,5 @@
 ![Nirav Patel](https://cdn.fs.teachablecdn.com/mCT5A6Z1ReeavARaYGRD)
-##
+
 # GitHub Based JSON data server 
 
 Use json data files for mimicking a backend server. This data can be served to a front-end application, which can use it to render its UI. The goal of the is to create a temporary datastore that can be directly used for a front end application. 
