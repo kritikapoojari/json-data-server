@@ -18,10 +18,15 @@ This repository is a simple tool for anyone who wants to test out a front end fe
 
 # Api End Points
 [/blogs/blogs.json](https://niravkpatel28.github.io/json-data-server/blogs/blogs.json)
+
 [/books/books.json](https://niravkpatel28.github.io/json-data-server/books/books.json)
+
 [/books/categories.json](https://niravkpatel28.github.io/json-data-server/books/categories.json)
+
 [/companies/companies.json](https://niravkpatel28.github.io/json-data-server/companies/companies.json)
+
 [/employees/employees.json](https://niravkpatel28.github.io/json-data-server/employees/employees.json)
+
 # Limitations
 The basic limitation of this repository is that it is serving static data. It cannot be used to serve api calls with route parameters or query parameters. The end user will simply receive entire json data which has to be parsed and used for application UI. 
 For having a backend server that is based on json server which supports query parameter and router parameters use the node package [json-server](https://www.npmjs.com/package/json-server).
